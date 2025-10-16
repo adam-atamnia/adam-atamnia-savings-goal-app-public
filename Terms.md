@@ -11,3 +11,19 @@ I may provide updates, bug fixes, or new features. These are also covered under 
 3. Disclaimer
 
 The app is provided “as is” without warranties of any kind.
+
+Spanish/Español:
+
+Aviso: Las compras están vinculadas a tu cuenta de la tienda (por ejemplo, Google Play, Apple App Store), no a tu cuenta de inicio de sesión. Por ejemplo, usar el mismo inicio de sesión en otro dispositivo no garantiza que tengas acceso a tus compras.
+
+1. Propiedad
+
+La aplicación y todo el contenido relacionado siguen siendo mi propiedad. Solo obtienes una licencia para usarla, no la propiedad.
+
+2. Actualizaciones
+
+Podré proporcionar actualizaciones, correcciones de errores o nuevas funciones. Estas también están cubiertas por esta licencia, a menos que indique lo contrario.
+
+3. Aviso Legal
+
+La aplicación se proporciona “tal cual” sin ningún tipo de garantía.
