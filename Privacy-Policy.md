@@ -1,50 +1,34 @@
-Privacy Policy  
-----------------
+**Privacy Policy**
 
-### Introduction  
-Our privacy policy will help you understand what information is collected, it is used, and what choices you have.
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy.
+**Introduction**
+This policy explains what information we collect, how we use it, and your choices. By using the app, you accept these conditions.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, and email address. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+**Information We Collect**
+We may request information such as your name or email address. We also use third-party services that may collect data.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+**Cookies**
+The app may use "cookies" and third-party libraries to collect information and improve services.
 
-The app may use third party code and libraries that use “cookies” to collection information and to improve their services.  
+**Location and Device**
+Some services may use location and device data to provide better service and prevent fraud.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones.
+**Service Providers**
+We may use third parties to help operate the app or analyze its use. They may access your information only to fulfill these tasks.
 
-### Device Information  
-We may collect information from your device in some cases. The information may be utilized for the provision of better service and to prevent fraudulent acts.
+**Account Deletion**
+When you delete your account, your purchase history and activities may be retained anonymously.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+**Security**
+We protect your information with commercially acceptable measures, but no method is 100% secure.
 
-We want to inform users of this Service that these third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf.
+**Children**
+This app is not directed at children under 13 years of age and we do not intentionally collect information from them.
 
-### Account Deletion
-When you delete your account, your purchase history and other user activities may be kept anonymously.
+**Changes to the Policy**
+We may update this policy and changes will be effective upon publication in the app.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
-
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13.  
-
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. Changes to the Privacy Policy will be made on this page. These changes are effective immediately, after they are posted on this page.  
-
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: feedback.adam.atamnia@gmail.com 
+**Contact Us**
+For questions or suggestions: Email: feedback.adam.atamnia@gmail.com
 
 ----------------
 
