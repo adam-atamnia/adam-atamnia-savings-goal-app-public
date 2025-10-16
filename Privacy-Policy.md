@@ -45,3 +45,50 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: feedback.adam.atamnia@gmail.com 
+
+----------------
+
+## **Política de Privacidad**
+
+### Introducción
+
+Esta política explica qué información recopilamos, cómo la usamos y tus opciones. Al usar la app, aceptas estas condiciones.
+
+### Información que Recopilamos
+
+Podemos solicitar información como tu nombre o correo electrónico para mejorar tu experiencia. También usamos servicios de terceros que pueden recopilar datos.
+
+### Cookies
+
+La app puede usar “cookies” y librerías de terceros para recopilar información y mejorar los servicios.
+
+### Ubicación y Dispositivo
+
+Algunos servicios pueden usar datos de ubicación y del dispositivo para ofrecer mejor servicio y prevenir fraudes.
+
+### Proveedores de Servicio
+
+Podemos usar terceros para ayudar a operar la app o analizar su uso. Ellos pueden acceder a tu información solo para cumplir estas tareas.
+
+### Eliminación de Cuenta
+
+Al eliminar tu cuenta, tu historial de compras y actividades pueden mantenerse de forma anónima.
+
+### Seguridad
+
+Protegemos tu información con medidas comercialmente aceptables, pero ningún método es 100% seguro.
+
+### Niños
+
+Esta app no está dirigida a menores de 13 años y no recopilamos intencionalmente información de ellos.
+
+### Cambios en la Política
+
+Podemos actualizar esta política y los cambios serán efectivos al publicarse en la app.
+
+### Contáctanos
+
+Para dudas o sugerencias:
+Correo: [feedback.adam.atamnia@gmail.com](mailto:feedback.adam.atamnia@gmail.com)
+
+
