@@ -40,7 +40,7 @@ Esta política explica qué información recopilamos, cómo la usamos y tus opci
 
 ### Información que Recopilamos
 
-Podemos solicitar información como tu nombre o correo electrónico para mejorar tu experiencia. También usamos servicios de terceros que pueden recopilar datos.
+Podemos solicitar información como tu nombre o correo electrónico. También usamos servicios de terceros que pueden recopilar datos.
 
 ### Cookies
 
