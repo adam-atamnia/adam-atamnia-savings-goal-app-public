@@ -12,7 +12,7 @@ I may provide updates, bug fixes, or new features. These are also covered under 
 
 The app is provided “as is” without warranties of any kind.
 
-###Spanish/Español:
+### Spanish/Español:
 
 Aviso: Las compras están vinculadas a tu cuenta de la tienda (por ejemplo, Google Play, Apple App Store), no a tu cuenta de inicio de sesión. Por ejemplo, usar el mismo inicio de sesión en otro dispositivo no garantiza que tengas acceso a tus compras.
 
