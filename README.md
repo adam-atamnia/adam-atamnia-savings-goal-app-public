@@ -1,1 +1,0 @@
-# adam-atamnia-savings-goal-app-public
