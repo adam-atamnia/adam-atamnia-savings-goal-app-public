@@ -1,7 +1,7 @@
 **Privacy Policy**
 
 **Introduction**
-This policy explains what information we collect, how we use it, and your choices. By using the app, you accept these conditions.
+By using the app, you accept these conditions.
 
 **Information We Collect**
 We may request information such as your name or email address. We also use third-party services that may collect data.
