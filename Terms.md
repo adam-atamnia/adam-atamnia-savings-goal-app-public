@@ -8,10 +8,6 @@ The app and all related content remain my property. You are only getting a licen
 
 I may provide updates, bug fixes, or new features. These are also covered under this license unless I say otherwise.
 
-3. Disclaimer
-
-The app is provided “as is” without warranties of any kind.
-
 ### Spanish/Español:
 
 Aviso: Las compras están vinculadas a tu cuenta de la tienda (por ejemplo, Google Play, Apple App Store), no a tu cuenta de inicio de sesión. Por ejemplo, usar el mismo inicio de sesión en otro dispositivo no garantiza que tengas acceso a tus compras.
@@ -24,6 +20,3 @@ La aplicación y todo el contenido relacionado siguen siendo mi propiedad. Solo 
 
 Podré proporcionar actualizaciones, correcciones de errores o nuevas funciones. Estas también están cubiertas por esta licencia, a menos que indique lo contrario.
 
-3. Aviso Legal
-
-La aplicación se proporciona “tal cual” sin ningún tipo de garantía.
